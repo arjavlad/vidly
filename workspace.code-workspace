@@ -1,12 +1,9 @@
 {
 	"folders": [
 		{
+			"name": "vidly",
 			"path": "."
 		}
 	],
-	"settings": {
-		"jshintrc": {
-			"esversion": 6
-		}
-	}
+	"settings": { }
 }
